@@ -1,6 +1,0 @@
-print("Veuillez entrer un nombre supérieur à 1000")
-nombre = float(input())
-
-if nombre < 1000:
-    print("Vous n’êtes vraiment pas très bon en mathématiques !")
-    
