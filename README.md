@@ -23,7 +23,3 @@ Le formulaire utilise FormSubmit. Au premier envoi, FormSubmit transmet un e-mai
 - `script.js` : menu de navigation sur téléphone et année du pied de page.
 - `assets/cv-clement-andre.pdf` : CV en PDF, à télécharger.
 - `assets/cv-clement-andre-apercu.png` : aperçu du CV montré dans la page.
-
-## À compléter plus tard
-
-Après le stage IKO-AXTER, ajouter les missions réalisées et l’attestation. Ajouter aussi les ateliers professionnels et le portefeuille de compétences quand le document sera disponible. Alimenter le journal de veille au fil des semaines avec la date, la source, le fait retenu et le lien avec le SISR.
