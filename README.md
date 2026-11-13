@@ -1,5 +1,4 @@
 # Portfolio de Clément André
-Portfolio
 
 Le portfolio est un site web qui doit être accessible en ligne et public : aucune autorisation particulière ne doit être requise pour y accéder.
 
